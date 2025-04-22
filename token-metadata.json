@@ -1,12 +1,6 @@
 {
-    "name": "OPOS",
-    "symbol": "OPOS",
-    "description": "Only Possible On Solana",
-    "image": "https://raw.githubusercontent.com/solana-developers/opos-asset/main/assets/DeveloperPortal/image.png",
-    "attributes": [
-      {
-        "trait_type": "Item",
-        "value": "Developer Portal"
-      }
-    ]
+    "name": "COW",
+    "symbol": "CWT",
+    "description": "THIS IS THE COW TOKEN",
+    "image": "https://www.betterwithdairy.com/sites/default/files/2025-02/What_Does_Dairy_Cow_Eat.webp",
 }
